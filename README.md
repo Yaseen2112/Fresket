@@ -31,6 +31,7 @@ A modern Java desktop application for managing your groceries with a powerful, r
 ### 1. Clone the repo:
 
 git clone https://github.com/Yaseen2112/Fresket.git
+
 cd Fresket
 
 
@@ -50,6 +51,7 @@ javac -cp lib/mysql-connector-j-9.4.0.jar -d bin src/com/groceryapp/*.java
 
 **Windows:**
 java -cp "bin;lib/mysql-connector-j-9.4.0.jar" com.groceryapp.Main
+
 **Mac/Linux:**
 java -cp "bin:lib/mysql-connector-j-9.4.0.jar" com.groceryapp.Main
 
@@ -58,6 +60,7 @@ java -cp "bin:lib/mysql-connector-j-9.4.0.jar" com.groceryapp.Main
 ## About Me
 
 **Developer:** Yaseen2112
+
 *I love building meaningful, real-world desktop apps in Java/Swing and helping users manage everyday challenges with stylish, performant software.*
 
 ---
