@@ -1,0 +1,28 @@
+# Java
+/bin/
+/out/
+*.class
+
+# Intellij IDEA
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# NetBeans
+nbproject/
+build/
+
+# VSCode
+.vscode/
+
+# Others
+.DS_Store
+*.log
+
+# OS generated
+Thumbs.db
+ehthumbs.db
