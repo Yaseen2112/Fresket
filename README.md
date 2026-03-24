@@ -22,7 +22,7 @@ A modern Java desktop application for managing your groceries with a powerful, r
 - Java 8 or higher (JDK)
 - MySQL server
 - `mysql-connector-java` JAR (put in `lib/`)
-- Your database user/password (edit `DatabaseConnection.java` if needed)
+- Your database user/password 
 
 ---
 
@@ -41,7 +41,6 @@ cd Fresket
 
 mysql -u root -p < grocery_schema.sql
 
-(Edit the user/password/host as needed.)
 
 ### 3. Build/Compile:
 
@@ -67,7 +66,7 @@ java -cp "bin:lib/mysql-connector-j-9.4.0.jar" com.groceryapp.Main
 
 ## License
 
-MIT License (or choose your own!)
+MIT License 
 
 ---
 
