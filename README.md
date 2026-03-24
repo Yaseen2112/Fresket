@@ -16,11 +16,6 @@ A modern Java desktop application for managing your groceries with a powerful, r
 
 ---
 
-## Screenshots
-
-*(Add a screenshot here – e.g., use the image from your welcome screen or main app window)*
-
----
 
 ## Prerequisites
 
